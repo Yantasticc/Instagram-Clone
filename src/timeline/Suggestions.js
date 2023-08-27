@@ -1,7 +1,7 @@
 import React from 'react'
 import './Suggestions.css'
 
-function Suggestions() {
+function Suggestions() { 
   return (
     <div>
       Suggestions
